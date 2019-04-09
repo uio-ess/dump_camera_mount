@@ -30,7 +30,7 @@ topmz =10;
 //mirror
 translate([0,0,-150]) rotate([45,0,0]) cube([topmx,topmy,topmz],center=true);
 
-
+// below here is the fixed plate, above is the tube+plate+mirror mount
 D=130;
 leng=1500;
 pipe_wall = 5;
